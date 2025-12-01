@@ -1,0 +1,3 @@
+teszteles, kontroller, 
+
+fajlkezelo uj sor parameter mit? eredmeny (logikai)
