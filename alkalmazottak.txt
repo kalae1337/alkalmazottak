@@ -1,3 +1,15 @@
-teszteles, kontroller, 
-
-fajlkezelo uj sor parameter mit? eredmeny (logikai)
+1001;Kiss Anna;550000;Menedzser
+1002;Nagy Béla;420000;Fejlesztő
+1003;Kovács Éva;380000;Teszter
+1004;Tóth Gábor;610000;Senior Fejlesztő
+1005;Molnár Dóra;580000;HR Manager
+1006;Szabó Levente;310000;Adatrögzítő
+1007;Varga Bence;490000;DevOps mérnök
+1008;Horváth Luca;360000;Junior Fejlesztő
+1009;Farkas Zoltán;750000;IT Igazgató
+1010;Novák Réka;410000;Marketing Asszisztens
+1011;Papp Tamás;520000;Pénzügyi Elemző
+1012;Balogh Zsófia;390000;Ügyfélszolgálatos
+1013;Lakatos Roland;500000;Projektvezető
+1014;Juhász Petra;350000;Grafikus
+1015;Mészáros Ádám;460000;Rendszergazda
